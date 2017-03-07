@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1478321148 source:c:\users\ahdon\desktop\rsa decoder\main.cpp
+	<iostream>
+	<string>
+
+1478501591 source:c:\users\ahdon\desktop\rsa encryption\rsa decoder\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<sstream>
+	<cstdlib>
+	<iomanip>
+
